@@ -5,7 +5,7 @@ This project is designed to demonstrate SQL and Power BI skills and techniques t
 
 ## 📌 Technalogies 
 - SQL (MS SQL Server)
-- Power BI
+- Excel
 
 ## 📌 Findings
 Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
